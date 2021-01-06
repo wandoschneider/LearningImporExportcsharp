@@ -1,0 +1,5 @@
+.vscode
+obj
+.DS_Store
+bin
+ByteBankImportacaoExportacao/exportContas.csv
